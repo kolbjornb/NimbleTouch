@@ -1,0 +1,5 @@
+Y:\Projects\NimbleTouch\Nimble.Core\bin\Debug\Nimble.Core.dll
+Y:\Projects\NimbleTouch\Nimble.Core\bin\Debug\Nimble.Core.pdb
+Y:\Projects\NimbleTouch\Nimble.Core\obj\Debug\Nimble.Core.csprojResolveAssemblyReference.cache
+Y:\Projects\NimbleTouch\Nimble.Core\obj\Debug\Nimble.Core.dll
+Y:\Projects\NimbleTouch\Nimble.Core\obj\Debug\Nimble.Core.pdb

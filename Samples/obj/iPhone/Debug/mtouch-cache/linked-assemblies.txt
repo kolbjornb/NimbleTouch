@@ -1,0 +1,3 @@
+/Users/kolbjorn/Projects/NimbleTouch/Samples/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/kolbjorn/Projects/NimbleTouch/Samples/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/kolbjorn/Projects/NimbleTouch/Samples/obj/iPhone/Debug/mtouch-cache/Link/Samples.exe

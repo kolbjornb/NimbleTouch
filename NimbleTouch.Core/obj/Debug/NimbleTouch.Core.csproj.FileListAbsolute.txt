@@ -1,0 +1,5 @@
+Y:\Projects\NimbleTouch\NimbleTouch.Core\bin\iPhone\Debug\NimbleTouch.Core.dll
+Y:\Projects\NimbleTouch\NimbleTouch.Core\bin\iPhone\Debug\NimbleTouch.Core.pdb
+Y:\Projects\NimbleTouch\NimbleTouch.Core\obj\Debug\NimbleTouch.Core.csprojResolveAssemblyReference.cache
+Y:\Projects\NimbleTouch\NimbleTouch.Core\obj\Debug\NimbleTouch.Core.dll
+Y:\Projects\NimbleTouch\NimbleTouch.Core\obj\Debug\NimbleTouch.Core.pdb
