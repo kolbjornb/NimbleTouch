@@ -1,0 +1,7 @@
+SamplesDroid.Activities.PersonDetailsPage;samplesdroid.activities.PersonDetailsPage
+SamplesDroid.Activities.PersonListPage;samplesdroid.activities.PersonListPage
+SamplesDroid.Activity1;samplesdroid.Activity1
+NimbleDroidMvvm.NIActivity;nimbledroidmvvm.NIActivity
+NimbleDroidMvvm.NimbleMvvmApplication;nimbledroidmvvm.NimbleMvvmApplication
+NimbleDroidMvvm.PageActivity`2;nimbledroidmvvm.PageActivity_2
+NimbleDroidMvvm.SubActivity;nimbledroidmvvm.SubActivity

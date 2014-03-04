@@ -1,5 +1,6 @@
 using System.Linq;
 using Samples.Model;
+using Samples.ViewModel;
 
 namespace Samples.ViewControllers.PersonDetails
 {

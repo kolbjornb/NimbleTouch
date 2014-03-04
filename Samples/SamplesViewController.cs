@@ -2,7 +2,6 @@
 
 using MonoTouch.Foundation;
 using NimbleTouch.Core.Starters;
-using Samples.ViewControllers.Nibs;
 using Samples.ViewControllers.PersonList;
 
 #endregion
@@ -17,9 +16,5 @@ namespace Samples
             StartPage<PersonListViewController, PersonListParameters>(parameters);
         }
 
-        partial void btnStart2OnClick(NSObject sender)
-        {
-            PresentViewController(new NibsViewController(), true, () => { });
-        }
     }
 }

@@ -1,0 +1,15 @@
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\NimbleDroidMvvm.dll
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\NimbleDroidMvvm.pdb
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\NimbleDroidMvvm.dll.mdb
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\NimbleDroidMvvm.NimbleDroidMvvm.apk
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\NimbleDroidMvvm.NimbleDroidMvvm-Signed.apk
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\Nimble.ViewModel.dll
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\Nimble.ViewModel.pdb
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\Nimble.ViewModel.dll.mdb
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\obj\Debug\NimbleDroidMvvm.csprojResolveAssemblyReference.cache
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\obj\Debug\NimbleDroidMvvm.dll
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\obj\Debug\NimbleDroidMvvm.pdb
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\obj\Debug\android\bin\NimbleDroidMvvm.NimbleDroidMvvm.apk
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\obj\Debug\res\values\strings.xml
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\obj\Debug\R.cs.flag
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\obj\Debug\uploadflags.txt

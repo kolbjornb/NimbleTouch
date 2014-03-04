@@ -1,6 +1,19 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NimbleTouchMvvm/PageViewController.cs">
+    <Files>
+      <File FileName="SamplesTouch/ViewControllers/PersonDetails/PersonDetailsViewController.cs" Line="11" Column="37" />
+      <File FileName="Samples.ViewModel/PersonList/PersonListViewModel.cs" Line="1" Column="1" />
+      <File FileName="Samples.ViewModel/PersonList/PersonListParameters.cs" Line="1" Column="1" />
+      <File FileName="Samples.ViewModel/PersonDetails/PersonViewModel.cs" Line="18" Column="10" />
+      <File FileName="Nimble.ViewModel/IViewModel.cs" Line="1" Column="1" />
+      <File FileName="Samples.ViewModel/PersonDetails/PersonParameters.cs" Line="1" Column="1" />
+      <File FileName="NimbleTouchMvvm/IPageViewController.cs" Line="9" Column="9" />
+      <File FileName="NimbleTouchMvvm/NIViewController.cs" Line="23" Column="63" />
+      <File FileName="NimbleTouchMvvm/PageViewController.cs" Line="1" Column="1" />
+      <File FileName="NimbleTouchMvvm/SubViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

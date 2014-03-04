@@ -102,8 +102,6 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="Model\Person.cs" />
-    <Compile Include="Model\PersonService.cs" />
     <Compile Include="SamplesViewController.cs" />
     <Compile Include="SamplesViewController.designer.cs">
       <DependentUpon>SamplesViewController.cs</DependentUpon>
@@ -121,21 +119,28 @@
     <Compile Include="ViewControllers\PersonDetails\PersonDetailsViewController.designer.cs">
       <DependentUpon>PersonDetailsViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="ViewControllers\Nibs\NibsViewController.cs" />
-    <Compile Include="ViewControllers\Nibs\NibsViewController.designer.cs">
-      <DependentUpon>NibsViewController.cs</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="SamplesViewController.xib" />
     <InterfaceDefinition Include="ViewControllers\PersonList\PersonListViewController.xib" />
     <InterfaceDefinition Include="ViewControllers\PersonDetails\PersonDetailsViewController.xib" />
-    <InterfaceDefinition Include="ViewControllers\Nibs\NibsViewController.xib" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NimbleTouch.Core\NimbleTouch.Core.csproj">
-      <Project>{1E26ED9C-A958-48BF-BDCB-A09C9768AC29}</Project>
-      <Name>NimbleTouch.Core</Name>
+    <ProjectReference Include="..\Nimble.ViewModel\Nimble.ViewModel.csproj">
+      <Project>{581D0476-CCE8-4B4E-BAE3-E345A498C2EA}</Project>
+      <Name>Nimble.ViewModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NimbleTouchMvvm\NimbleTouchMvvm.csproj">
+      <Project>{0AF69795-9A1C-4D21-923F-23611CF835D6}</Project>
+      <Name>NimbleTouchMvvm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Samples.Model\Samples.Model.csproj">
+      <Project>{8e5e1c90-0eb1-4796-a356-846b981912cc}</Project>
+      <Name>Samples.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Samples.ViewModel\Samples.ViewModel.csproj">
+      <Project>{911c5426-0e8c-41e6-a914-1e623f6b5a74}</Project>
+      <Name>Samples.ViewModel</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

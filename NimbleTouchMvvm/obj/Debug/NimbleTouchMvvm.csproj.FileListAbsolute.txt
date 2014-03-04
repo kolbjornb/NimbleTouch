@@ -1,0 +1,8 @@
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\bin\iPhone\Debug\NimbleTouchMvvm.dll
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\bin\iPhone\Debug\NimbleTouchMvvm.pdb
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\bin\iPhone\Debug\Nimble.ViewModel.dll
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\bin\iPhone\Debug\Nimble.ViewModel.pdb
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\bin\iPhone\Debug\Nimble.ViewModel.dll.mdb
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\obj\Debug\NimbleTouchMvvm.csprojResolveAssemblyReference.cache
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\obj\Debug\NimbleTouchMvvm.dll
+Y:\Projects\NimbleTouch\NimbleTouchMvvm\obj\Debug\NimbleTouchMvvm.pdb

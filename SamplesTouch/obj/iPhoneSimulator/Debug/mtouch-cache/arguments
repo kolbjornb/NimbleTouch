@@ -1,0 +1,35 @@
+# Version: 7.0.6.168 (2ed9bc9)
+# [first argument, ignore] # /Users/kolbjorn/Projects/NimbleTouch/SamplesTouch/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/kolbjorn/Projects/NimbleTouch/SamplesTouch/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/kolbjorn/Projects/NimbleTouch/SamplesTouch/bin/iPhoneSimulator/Debug/SamplesTouch.app \
+	-r \
+	/Users/kolbjorn/Projects/NimbleTouch/Nimble.ViewModel/bin/Debug/Nimble.ViewModel.dll \
+	-r \
+	/Users/kolbjorn/Projects/NimbleTouch/NimbleTouchMvvm/bin/iPhone/Debug/NimbleTouchMvvm.dll \
+	-r \
+	/Users/kolbjorn/Projects/NimbleTouch/Samples.Model/bin/Debug/Samples.Model.dll \
+	-r \
+	/Users/kolbjorn/Projects/NimbleTouch/Samples.ViewModel/bin/Debug/Samples.ViewModel.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/kolbjorn/Projects/NimbleTouch/SamplesTouch/bin/iPhoneSimulator/Debug/SamplesTouch.exe \

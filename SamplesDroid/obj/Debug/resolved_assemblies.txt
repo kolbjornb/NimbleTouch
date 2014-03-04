@@ -1,0 +1,5 @@
+Y:\Projects\NimbleTouch\SamplesDroid\bin\Debug\SamplesDroid.dll
+Y:\Projects\NimbleTouch\Nimble.ViewModel\bin\Debug\Nimble.ViewModel.dll
+Y:\Projects\NimbleTouch\NimbleDroidMvvm\bin\Debug\NimbleDroidMvvm.dll
+Y:\Projects\NimbleTouch\Samples.Model\bin\Debug\Samples.Model.dll
+Y:\Projects\NimbleTouch\Samples.ViewModel\bin\Debug\Samples.ViewModel.dll

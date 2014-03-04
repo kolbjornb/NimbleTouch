@@ -36,18 +36,21 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Starters\SubViewController.cs" />
-    <Compile Include="Starters\IViewModel.cs" />
     <Compile Include="Starters\IPageViewController.cs" />
     <Compile Include="Starters\NIViewController.cs" />
     <Compile Include="Starters\PageViewController.cs" />
-  </ItemGroup>
-  <ItemGroup>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="monotouch" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nimble.ViewModel\Nimble.ViewModel.csproj">
+      <Project>{581D0476-CCE8-4B4E-BAE3-E345A498C2EA}</Project>
+      <Name>Nimble.ViewModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />
 </Project>

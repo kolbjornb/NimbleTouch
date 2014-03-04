@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Samples.Model;
+using Samples.ViewModel;
 
 namespace Samples.ViewControllers.PersonList
 {

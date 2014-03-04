@@ -1,0 +1,17 @@
+Y:\Projects\NimbleTouch\SamplesTouch\obj\iPhone\Debug\SamplesTouch.csprojResolveAssemblyReference.cache
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\SamplesTouch.exe
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\SamplesTouch.pdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Nimble.ViewModel.dll
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\NimbleTouchMvvm.dll
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Samples.Model.dll
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Samples.ViewModel.dll
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Nimble.ViewModel.pdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Nimble.ViewModel.dll.mdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\NimbleTouchMvvm.pdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\NimbleTouchMvvm.dll.mdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Samples.Model.pdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Samples.Model.dll.mdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Samples.ViewModel.pdb
+Y:\Projects\NimbleTouch\SamplesTouch\bin\iPhone\Debug\Samples.ViewModel.dll.mdb
+Y:\Projects\NimbleTouch\SamplesTouch\obj\iPhone\Debug\SamplesTouch.exe
+Y:\Projects\NimbleTouch\SamplesTouch\obj\iPhone\Debug\SamplesTouch.pdb

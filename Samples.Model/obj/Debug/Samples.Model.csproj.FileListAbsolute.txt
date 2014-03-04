@@ -1,0 +1,4 @@
+Y:\Projects\NimbleTouch\Samples.Model\bin\Debug\Samples.Model.dll
+Y:\Projects\NimbleTouch\Samples.Model\bin\Debug\Samples.Model.pdb
+Y:\Projects\NimbleTouch\Samples.Model\obj\Debug\Samples.Model.dll
+Y:\Projects\NimbleTouch\Samples.Model\obj\Debug\Samples.Model.pdb

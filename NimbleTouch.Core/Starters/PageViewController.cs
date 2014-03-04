@@ -1,3 +1,5 @@
+using Nimble.ViewModel;
+
 namespace NimbleTouch.Core.Starters
 {
     /// <summary>

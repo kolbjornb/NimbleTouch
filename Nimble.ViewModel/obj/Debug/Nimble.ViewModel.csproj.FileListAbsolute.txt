@@ -1,0 +1,4 @@
+Y:\Projects\NimbleTouch\Nimble.ViewModel\bin\Debug\Nimble.ViewModel.dll
+Y:\Projects\NimbleTouch\Nimble.ViewModel\bin\Debug\Nimble.ViewModel.pdb
+Y:\Projects\NimbleTouch\Nimble.ViewModel\obj\Debug\Nimble.ViewModel.dll
+Y:\Projects\NimbleTouch\Nimble.ViewModel\obj\Debug\Nimble.ViewModel.pdb
